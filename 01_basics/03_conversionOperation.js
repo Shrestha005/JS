@@ -10,7 +10,7 @@ let valueInNumber = Number(score)
 
 let isLoggedIn = 1
 let booleanIsLoggedIn = Boolean(isLoggedIn)
-console.log(booleanIsLoggedIn);
+// console.log(booleanIsLoggedIn);
 
 // 1 is true , 0 is false
 // "" is false
@@ -20,4 +20,9 @@ console.log(booleanIsLoggedIn);
 
 let value = 3
 let negValue = -value
-console.log(negValue);
+// console.log(negValue); 
+
+let gameCounter = 100
+gameCounter++;
+console.log(gameCounter);
+
