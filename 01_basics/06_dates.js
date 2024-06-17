@@ -7,3 +7,9 @@ let myDate = new Date()
 let mynewdate = new Date(2023 , 0 , 23)
 console.log(mynewdate);
 console.log(mynewdate.toDateString());
+
+//time
+let timeStamp = Date.now()
+// console.log(timeStamp);
+// console.log(mynewdate.getTime());
+// console.log(Math.floor(Date.now()/1000));
