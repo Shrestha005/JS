@@ -12,7 +12,8 @@ console.log(newgamename);
 const url = "https://shres.github%20js"
 console.log(url.replace('%20' , '-'));
 console.log(url.includes('dude'));
-// node 01_basics/04_strings
 
 let newname = "shres-git-hub"
 console.log(newname.split('-'));
+
+// node 01_basics/04_strings
