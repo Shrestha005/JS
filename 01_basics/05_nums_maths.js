@@ -16,7 +16,7 @@ const num = 1123.8966
 
 const hundreds = 1000000
 // console.log(hundreds.toLocaleString('en-IN'));
-// node 01_basics/05_nums_maths.js
+
 //maths
 // console.log(Math);
 // console.log(Math.abs(-3));
