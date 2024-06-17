@@ -16,4 +16,3 @@ console.log(url.includes('dude'));
 let newname = "shres-git-hub"
 console.log(newname.split('-'));
 
-// node 01_basics/04_strings
